@@ -1,3 +1,6 @@
-altair
-pandas
 streamlit
+numpy
+pickleshare
+requests
+pandas
+protobuf==3.19.1
